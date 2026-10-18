@@ -1,5 +1,3 @@
-# Carver Guardian: Code Rescue
+# Carver Guardian — Code Rescue
 
-Mobile controls patch: aligned D-pad and ACTION touch/click fallback. This version is a 2D prototype, not a 3D model.
-
-Deploy as a static site to Vercel.
+Mobile fix v3: cone mission ACTION works without precise proximity; touch selection, long-press callout, double-tap zoom and gesture zoom suppressed within game. Upload index.html to GitHub repository root and commit; Vercel automatically redeploys.
