@@ -1,3 +1,3 @@
-# Carver Guardian 3D — Code Rescue
+# Carver Guardian 3D V2
 
-Upload `index.html` and `vercel.json` to the root of your existing GitHub repository. Vercel will redeploy. Uses Three.js from jsDelivr (internet required). Features 3D cartoon geometry, third-person camera, 5 missions and aligned touch D-pad. The hero is a simplified 3D interpretation of the original artwork, not a custom scanned likeness.
+Mobile-friendly procedural 3D character upgrade: detailed armor, CG emblem, facial features, CARVER cap, cape, orbit camera. Original 5 objectives and aligned D-pad preserved. This is **stylized mobile 3D**, not console photorealism or an exact 3D scan of the original face. Three.js requires internet. Replace index.html in the existing GitHub repository and let Vercel deploy.
